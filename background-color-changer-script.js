@@ -1,3 +1,5 @@
+/* Random background color changer */
+
 console.log("Background Color changer");
 
 const darkColorsArr = [
